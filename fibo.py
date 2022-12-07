@@ -1,7 +1,7 @@
     
-def fibonacci(x) :   
+def fibonacci(y) :   
     fibo_list = list([0, 1])
-    for i in range(x) :
+    for i in range(y) :
 
         F0 = fibo_list[i]
 
